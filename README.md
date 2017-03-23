@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zhongkun Jin's STA 141B Page!
 
 You can use the [editor on GitHub](https://github.com/ChrisJZK/STA141B-Zhongkun-Jin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
