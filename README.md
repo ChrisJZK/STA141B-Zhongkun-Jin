@@ -9,4 +9,5 @@ This is my last quarter in UCD, and I am going to graduate school and keep pursu
 ## Final Project
 
 Here is my [Final Project Repo](https://github.com/ChrisJZK/STA-141B-Final-Project)(including Final Project and the CSV files being used)
+
 Here is my [Final Project](https://github.com/ChrisJZK/STA-141B-Final-Project/blob/master/STA%20141B%20Final%20Project.ipynb)
